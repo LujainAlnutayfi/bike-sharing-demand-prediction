@@ -1,0 +1,18 @@
+﻿Date,Course week,Member,Task,Files to upload or update,Status
+2026-11-05,11,Lujain,Created the shared GitHub repository,Repository creation (no file required),Completed
+2026-11-07,11,Lujain,Organize project documentation and contribution plan,README.md; requirements.txt; contribution_log.csv,Planned
+2026-11-07,11,Nouf,"Load and inspect data, prepare EDA and preprocessing",notebooks/01_eda_preprocessing.py,Planned
+2026-11-07,11,Ajwan,Review preprocessing code and target-leakage prevention,notebooks/01_eda_preprocessing.py (review updates after Nouf uploads),Planned
+2026-11-07,11,Ghaleh,Compile proposal and data/preprocessing report sections,report/Bike_Sharing_Project_Proposal.pdf; report/Bike_Sharing_Final_Report.docx,Planned
+2026-11-14,12,Lujain,Review progress and update documentation and log,README.md; contribution_log.csv,Planned
+2026-11-14,12,Nouf,Refine EDA and preprocessing based on review,notebooks/01_eda_preprocessing.py,Planned
+2026-11-14,12,Ajwan,"Implement and compare baseline, linear regression, decision tree and KNN",notebooks/02_models.py,Planned
+2026-11-14,12,Ghaleh,Document core-model results and interpretation,report/core_model_results.csv; report/Bike_Sharing_Final_Report.docx,Planned
+2026-11-21,13,Lujain,Review reproducibility and update progress documentation,README.md; contribution_log.csv,Planned
+2026-11-21,13,Nouf,Implement and explain clustering extension,notebooks/04_extension.py; report/Bike_Sharing_Final_Report.docx (extension section),Planned
+2026-11-21,13,Ajwan,"Compare ensembles, tune selected model and run final evaluation",notebooks/03_ensembles_evaluation.py,Planned
+2026-11-21,13,Ghaleh,"Compile ensemble results, residual analysis and report discussion",report/ensemble_results.csv; report/fig_residual_plot.png; report/Bike_Sharing_Final_Report.docx,Planned
+2026-11-28,14,Lujain,Finalize documentation and contribution record; add introduction slides,README.md; contribution_log.csv; presentation/01_Lujain_Introduction.pptx,Planned
+2026-11-28,14,Nouf,Finalize EDA/extension code and data presentation slides,notebooks/01_eda_preprocessing.py; notebooks/04_extension.py; presentation/02_Nouf_Data_EDA.pptx,Planned
+2026-11-28,14,Ajwan,Finalize modeling code and model presentation slides,notebooks/02_models.py; notebooks/03_ensembles_evaluation.py; presentation/03_Ajwan_Models.pptx,Planned
+2026-11-28,14,Ghaleh,Finalize report and evaluation slides; combine team slides,report/Bike_Sharing_Final_Report.docx; report/Bike_Sharing_Final_Report.pdf; presentation/04_Ghaleh_Evaluation.pptx; presentation/Bike_Sharing_Presentation.pptx,Planned
