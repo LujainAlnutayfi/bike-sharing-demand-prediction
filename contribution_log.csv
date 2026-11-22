@@ -1,0 +1,11 @@
+Date,Member,Role,Task,Files,Status,Notes
+2026-11-05,Lujain,Project coordinator,Created GitHub repository and added team members,-,Done,
+2026-11-22,Lujain,Project coordinator,"Setup files, README, contribution log, reproducibility check",README.md; requirements.txt; .gitignore; contribution_log.csv,Pending,Change to Done after upload
+2026-11-22,Nouf,Data lead,Data download script and dataset,data/download_data.py; data/hour.csv,Pending,
+2026-11-22,Ajwan,Modelling lead,Shared helpers (split; pipelines; CV; metrics),src/__init__.py; src/utils.py,Pending,
+2026-11-22,Nouf,Data lead,"EDA, data quality checks, preprocessing pipeline",notebooks/01_eda_preprocessing.ipynb; report/figures/fig1-fig6; report/results/training_summary.csv; report/results/correlations.csv,Pending,Reviewed by Ajwan
+2026-11-22,Ajwan,Modelling lead,Baseline and core models,notebooks/02_models.ipynb; report/results/core_model_results.csv; report/figures/fig7,Pending,
+2026-11-22,Ajwan,Modelling lead,"Ensembles, tuning, final test evaluation",notebooks/03_ensembles_evaluation.ipynb; report/results/*; report/figures/fig8-fig12,Pending,Error analysis with Ghaleh
+2026-11-22,Nouf,Data lead,Neural network extension,notebooks/04_extension.ipynb; report/results/extension_*; report/figures/fig13,Pending,
+2026-11-22,Ghaleh,Evaluation and reporting lead,"Proposal, final report, error analysis write-up",report/Bike_Sharing_Project_Proposal.pdf; report/Bike_Sharing_Final_Report.docx; report/Bike_Sharing_Final_Report.pdf,Pending,
+2026-11-22,Ghaleh,Evaluation and reporting lead,Presentation (all members present a part),presentation/Bike_Sharing_Presentation.pptx,Pending,
