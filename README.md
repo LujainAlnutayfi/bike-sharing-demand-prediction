@@ -1,6 +1,6 @@
 # Bike Sharing Demand Prediction
 
-Introduction to Machine Learning - course project.
+Introduction to Machine Learning project.
 
 **Team:** Lujain (Project coordinator), Nouf (Data lead), Ajwan (Modelling lead), Ghaleh (Evaluation and reporting lead)
 
